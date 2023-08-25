@@ -1,2 +1,5 @@
 Change 1 in file1
-Change 2 in file1
+Change 2 in file1 BUGBUGBUG
+I AM ON BRANCH ONE
+
+bug line added
