@@ -1,5 +1,6 @@
 Change 1 in file1
-Change 2 in file1 BUGBUGBUG
-I AM ON BRANCH ONE
+Change 2 in file1 BUGBUGBUG MASTER EDIT
+MASTER EDIT MASTER EDITTTTT
 
 bug line added
+MASTER LINE ADDED
