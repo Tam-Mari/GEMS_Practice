@@ -1,5 +1,11 @@
 Change 1 in file1
-Change 2 in file1 BUGBUGBUG
+Change 2 in file1 BUGBUGBUG BRANCHHH
 I AM ON BRANCH ONE
 
+THIS IS THE NEWEST BUG BRANCH
+ONLY PLAY HERE
+BUG BUG BUG
+
 bug line added
+EDITED ON MASTER BUUGGG
+bug fixed
